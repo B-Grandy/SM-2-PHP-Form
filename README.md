@@ -1,6 +1,6 @@
-PHP-HTML-Forms
+PHP-HTML-FORM
 
-Sample PHP form with POST Method:
+Sample PHP Form with POST Method: 
 
-Download zip file
-extract and run php file in XAMPP server
+	1. Download zip file
+	2. Extract and run PHP File in XAMPP Server 
